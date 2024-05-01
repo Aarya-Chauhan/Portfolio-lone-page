@@ -147,8 +147,8 @@
   }
 
   .contactBtn{
-    margin: 5vh; 
-  }
-
-  
+    margin: 5vh;
+    font-size: large; 
+    font-weight: 700;
+  }  
 }
