@@ -1,9 +1,8 @@
 import React from "react";
-
 import styles from "./Contact.module.css";
 import { getImageUrl } from "../../utils";
 
-const Contact = () => {
+export const Contact = () => {
   return (
     <footer id="contact" className={styles.container}>
       <div className={styles.text}>
@@ -12,23 +11,25 @@ const Contact = () => {
       </div>
       <ul className={styles.links}>
         <li className={styles.link}>
-          <img src={getImageUrl("contact/emailIcon.png")} alt="Email icon" />
-          <a href="mailto:myemail@email.com">Gmail</a>
+          <a href="https://github.com/Aarya-Chauhan" target="blank">
+            <img src={getImageUrl("contact/github.png")} alt="Github icon" />
+          </a>
         </li>
         <li className={styles.link}>
+          <a href="https://www.instagram.com/aarya_c111" target="blank">
+            <img src={getImageUrl("contact/instagram.png")} alt="Email icon"/>
+          </a>
+        </li>
+        <li className={styles.link}>
+          <a href="https://www.linkedin.com/in/aarya-chauhan" target="blank">
           <img
-            src={getImageUrl("contact/linkedinIcon.png")}
+            src={getImageUrl("contact/linkedin.png")}
             alt="LinkedIn icon"
           />
-          <a href="https://www.linkedin.com/myname">LinkedIn</a>
+          </a>
         </li>
-        <li className={styles.link}>
-          <img src={getImageUrl("contact/githubIcon.png")} alt="Github icon" />
-          <a href="https://www.github.com/myname">GitHub</a>
-        </li>
+        
       </ul>
     </footer>
   );
 };
-
-export default Contact;

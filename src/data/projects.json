@@ -1,18 +1,26 @@
 [
-    {
-      "title": "Crystal Ball",
-      "imageSrc": "projects/project.png",
-      "description": "An autoML framework enabling rapid training of ML models on diverse datasets and a NO-CODE platform for data-analysis of charachteristics and is streamlined to ML workflows by upto 50%.",
-      "skills": ["Pycaret", "Streamlit", "Pandas","Numpy"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
-    },
-    {
-      "title": "Fake-Chat",
-      "imageSrc": "projects/project.png",
-      "description": "A chatbot training tool based on gpt-2 algorithm,tailored to user-defined conversation datasets.",
-      "skills": ["DialoGPT", "Tensorflow", "Pytorch", "Jupyter-Notebook"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
-    }
-  ]
+  {
+    "title": "Project A",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Project B",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the lakjnvvojd dojofvnodnv odfojdib ijdjdbd idjvjd ijdipfvje test languages by building an app.",
+    "skills": ["React", "Express", "Node", "Sass"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
