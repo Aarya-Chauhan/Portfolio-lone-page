@@ -116,7 +116,6 @@
     padding: 0 10vw;
     margin-left: 0;
     margin-right: 0;
-
   }
 
   .content {
@@ -151,4 +150,25 @@
     font-size: large; 
     font-weight: 700;
   }  
+}
+
+@media screen and (max-width: 405px){
+  .title{
+    width: fit-content;
+    font-size: x-large;
+    font-weight: 900;
+  }
+
+  .description{
+    font-size: large;
+    font-weight: 100;
+  }
+
+  .contactBtn{
+    margin: 5vh;
+    font-size: medium; 
+    font-weight: 500;
+  } 
+
+  
 }
