@@ -33,3 +33,4 @@ export const Contact = () => {
     </footer>
   );
 };
+
