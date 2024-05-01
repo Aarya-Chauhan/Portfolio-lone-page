@@ -108,9 +108,47 @@
 @media screen and (max-width: 830px) {
   .container {
     flex-direction: column-reverse;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100%;
+    object-fit: cover;
+    margin-top:3vh;
+    padding: 0 10vw;
+    margin-left: 0;
+    margin-right: 0;
+
   }
 
   .content {
+    width: fit-content;
     align-items: center;
+    justify-content: center;
+    position: relative;
   }
+
+  .heroImg{
+    margin: 5vh;
+    padding: 0;
+    width: 50%;
+    align-items: center;
+    justify-content: center;
+    border-radius: 30%;
+  }
+
+  .title{
+    width: fit-content;
+    font-size: xx-large;
+    font-weight: 1000;
+  }
+
+  .description{
+    font-size: x-large;
+    font-weight: 200;
+  }
+
+  .contactBtn{
+    margin: 5vh; 
+  }
+
+  
 }
