@@ -1,26 +1,23 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "title": "Rejouice Clone",
+    "imageSrc": "projects/rejouice.png",
+    "description": "This is a UI clone project of the original website of rejouice created using vanilla HTML, CSS & JS. This website imitates animations,styles and fonts used in original website.  ",
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/Aarya-Chauhan/REJOUICE_clone"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the lakjnvvojd dojofvnodnv odfojdib ijdjdbd idjvjd ijdipfvje test languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "title": "Crystal Ball",
+    "imageSrc": "projects/crystalball.png",
+    "description": "A no-code AutoML dashboard that provides EDA over diverse datasets, and also trains customisable ML models based on those datasets, developed by using python streamlit.",
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/Aarya-Chauhan/Crystall_Ball"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "title": "Fake-Chat",
+    "imageSrc": "projects/fakechat.jpg",
+    "description": "A CLI based tool for training and deploying custom Chatbot models on GPT-2 algorithm using a custom dataset of conversations by using DialoGPT algorithms.",
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/Aarya-Chauhan/FakeChat"
   }
 ]
