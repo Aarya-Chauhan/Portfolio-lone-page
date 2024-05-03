@@ -17,22 +17,25 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <div className={styles.aboutItemText}>
               <p>
-                I'm an aspiring FullStack developer passionate about creating digital experiences through code. Currently I am based in Kanpur, India.
+                I'm an aspiring FullStack developer passionate about creating
+                digital experiences through code. Currently I am based in
+                Kanpur, India.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <div className={styles.aboutItemText}>
               <p>
-                I also have keen interest in machine learning and cyber security.
+                I also have keen interest in machine learning and cyber
+                security.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <div className={styles.aboutItemText}>
               <p>
-              When I'm not WORKING I enjoy being in nature, reading books, and learning about different languages and cultures round the globe.
-
+                When I'm not WORKING I enjoy being in nature, reading books, and
+                learning about different languages and cultures round the globe.
               </p>
             </div>
           </li>

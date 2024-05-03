@@ -17,20 +17,18 @@ export const Contact = () => {
         </li>
         <li className={styles.link}>
           <a href="https://www.instagram.com/aarya_c111" target="blank">
-            <img src={getImageUrl("contact/instagram.png")} alt="Email icon"/>
+            <img src={getImageUrl("contact/instagram.png")} alt="Email icon" />
           </a>
         </li>
         <li className={styles.link}>
           <a href="https://www.linkedin.com/in/aarya-chauhan" target="blank">
-          <img
-            src={getImageUrl("contact/linkedin.png")}
-            alt="LinkedIn icon"
-          />
+            <img
+              src={getImageUrl("contact/linkedin.png")}
+              alt="LinkedIn icon"
+            />
           </a>
         </li>
-        
       </ul>
     </footer>
   );
 };
-

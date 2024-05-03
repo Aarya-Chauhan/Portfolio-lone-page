@@ -14,43 +14,35 @@
   {
     "title": "node",
     "imageSrc": "skills/node.png"
-  }
-  ,
+  },
   {
     "title": "express",
     "imageSrc": "skills/express.png"
-  }
-  ,
+  },
   {
     "title": "react",
-    "imageSrc": "skills/react.png"  
-  }
-  ,
+    "imageSrc": "skills/react.png"
+  },
   {
     "title": "MongoDB",
     "imageSrc": "skills/mongodb.png"
-  }
-  ,
+  },
   {
     "title": "NEXTjs",
     "imageSrc": "skills/next.png"
-  }
-  ,
+  },
   {
     "title": "tailwind",
     "imageSrc": "skills/tailwind.png"
-  }
-  ,
+  },
   {
     "title": "Linux",
     "imageSrc": "skills/linux.jpeg"
-  }
-  ,
+  },
   {
     "title": "git",
     "imageSrc": "skills/git.png"
-  }
-  ,
+  },
   {
     "title": "SQL",
     "imageSrc": "skills/sql.png"
@@ -74,11 +66,9 @@
   {
     "title": "Shell-Scripting",
     "imageSrc": "skills/bash.jpeg"
-    
   },
   {
     "title": "Figma",
     "imageSrc": "skills/figma.png"
-    
   }
 ]

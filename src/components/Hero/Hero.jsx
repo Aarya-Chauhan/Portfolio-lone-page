@@ -8,9 +8,7 @@ export const Hero = () => {
     <section className={styles.container}>
       <div className={styles.content}>
         <h1 className={styles.title}>hello! I'm Aarya</h1>
-        <p className={styles.description}>
-          Welcome to my page ✨
-        </p>
+        <p className={styles.description}>Welcome to my page ✨</p>
         <a href="#about" className={styles.contactBtn}>
           Learn More !!
         </a>
