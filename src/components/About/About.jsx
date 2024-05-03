@@ -24,7 +24,7 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <div className={styles.aboutItemText}>
               <p>
-                I also have keen intrest in machine learning and cyber security.
+                I also have keen interest in machine learning and cyber security.
               </p>
             </div>
           </li>
