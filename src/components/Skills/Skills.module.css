@@ -1,13 +1,15 @@
 @import "../../vars.css";
 
-.container {
+.container
+{
   color: var(--color-text);
   margin-top: 20vh;
   margin-left: 10%;
   margin-right: 10%;
 }
 
-.title {
+.title
+{
   color: var(--color-text);
   font-size: xx-large;
   font-weight: 900;
@@ -17,26 +19,29 @@
 }
 
 
-.skills {
+.skills
+{
   width: 100%;
   margin-top: 8vh;
   display: flex;
   justify-content: center;
   flex-direction: row;
   flex-wrap: wrap;
-  gap: 3vw;
+  gap: 1vw;
 }
 
-.skill {
+.skill
+{
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 11px;
+  /* gap: 11px; */
 }
 
-.skillImageContainer {
-  background-color: var(--color-secondary);
-  border-radius: 100%;
+.skillImageContainer
+{
+  /* background-color: var(--color-secondary); */
+  /* border-radius: 100%; */
   display: flex;
   align-items: center;
   justify-content: center;
@@ -44,45 +49,53 @@
   height: 120px;
 }
 
-.skillImageContainer img {
+.skillImageContainer img
+{
   width: 75px;
 }
 
-.skill p {
+.skill p
+{
   font-size: 25px;
   font-family: var(--font-roboto);
   font-weight: 500;
 }
 
-@media screen and (max-width: 830px) {
-  .container{
+@media screen and (max-width: 830px)
+{
+  .container
+  {
     margin-top: 10vh;
   }
 
-  .skillImageContainer{
+  .skillImageContainer
+  {
     width: 15vh;
     height: 100%;
   }
 
-  .content {
+  .content
+  {
     flex-direction: column;
     align-items: flex-start;
     justify-content: flex-start;
-    
+
   }
 
-  .skills {
+  .skills
+  {
     width: 100%;
     flex-direction: row;
     justify-content: center;
   }
 
-  .image{
+  .image
+  {
     position: relative;
     width: 50%;
     height: 50%;
 
   }
 
-  
+
 }
