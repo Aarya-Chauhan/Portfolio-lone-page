@@ -20,7 +20,6 @@ const Skills = () => {
                     alt={skill.title}
                   />
                 </div>
-                <p>{skill.title}</p>
               </div>
             );
           })}
