@@ -13,7 +13,7 @@
   },
   {
     "title": "node",
-    "imageSrc": "skills/node.png"
+    "imageSrc": "skills/node-js.png"
   },
   {
     "title": "express",
@@ -24,8 +24,8 @@
     "imageSrc": "skills/react.png"
   },
   {
-    "title": "MongoDB",
-    "imageSrc": "skills/mongodb.png"
+    "title": "Tensorflow",
+    "imageSrc": "skills/tensorflow.svg"
   },
   {
     "title": "NEXTjs",
@@ -37,38 +37,50 @@
   },
   {
     "title": "Linux",
-    "imageSrc": "skills/linux.jpeg"
+    "imageSrc": "skills/linux.png"
   },
   {
     "title": "git",
-    "imageSrc": "skills/git.png"
+    "imageSrc": "skills/git.svg"
   },
   {
     "title": "SQL",
-    "imageSrc": "skills/sql.png"
+    "imageSrc": "skills/mysql.png"
+  },
+  {
+    "title": "Postman",
+    "imageSrc": "skills/postman.png"
   },
   {
     "title": "Python",
-    "imageSrc": "skills/python.jpg"
+    "imageSrc": "skills/python.png"
   },
   {
     "title": "C++",
-    "imageSrc": "skills/c++.png"
+    "imageSrc": "skills/cpp.png"
   },
   {
     "title": "jupyter",
-    "imageSrc": "skills/jupyter.jpeg"
+    "imageSrc": "skills/jupyter.png"
   },
   {
     "title": "streamlit",
-    "imageSrc": "skills/streamlit.jpg"
+    "imageSrc": "skills/streamlit.png"
   },
   {
     "title": "Shell-Scripting",
-    "imageSrc": "skills/bash.jpeg"
+    "imageSrc": "skills/bash.png"
   },
   {
     "title": "Figma",
     "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "Numpy",
+    "imageSrc": "skills/Numpy.png"
   }
 ]
