@@ -27,7 +27,10 @@ export const Navbar = () => {
           onClick={() => setMenuOpen(false)}
         >
           <li>
-            <a href="https://drive.google.com/file/d/1bPaQBVZYCXjp3AkyZIPhR87nuhTCzCEy/view">
+            <a
+              href="https://drive.google.com/file/d/1bPaQBVZYCXjp3AkyZIPhR87nuhTCzCEy/view"
+              target="_blank"
+            >
               Resume
             </a>
           </li>
