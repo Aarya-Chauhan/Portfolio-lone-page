@@ -24,8 +24,3 @@ This repository hosts my personal portfolio website, developed with Vite, React.
 ### Dive in Deep
 
 [Welcome!!!](https://aaryachauhan.vercel.app/)
-
-.
-.
-.
-.
